@@ -1,4 +1,6 @@
-# PL-Home-Advantage-Analysis
+# Premier League Home Advantage Analysis
+
+Does Playing at Home Still Matter in the Modern Premier League?
 Premier League Home Advantage Analysis — Python, Tableau, Data Analytics Portfolio Project
 # Premier League Home Advantage Analysis
 ### Amazon/C1 Data Analytics Portfolio Project — 2026
